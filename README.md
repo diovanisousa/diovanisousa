@@ -1,4 +1,4 @@
-<body style="bacground:red;">
+<body>
     <div class="container">
         <h1>Desenvolvedor Full Stack</h1>
         <p>Olá! Meu nome é Diovani Sousa, sou um desenvolvedor Full Stack em formação pelo <strong>DevClub</strong>.</p>
