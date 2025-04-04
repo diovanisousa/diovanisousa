@@ -13,7 +13,7 @@
         <div class="contact">
             <p>📫 Entre em contato comigo:</p>
             <p><a href="mailto:diovanisousa@gmail.com">diovanisousa@gmail.com</a></p>
-            <p><a href="https://github.com/seuusuario">GitHub</a> | <a href="https://www.linkedin.com/in/diovani-sousa-792a6b354">LinkedIn</a></p>
+            <p><a href="https://www.linkedin.com/in/diovani-sousa-792a6b354">LinkedIn</a></p>
         </div>
     </div>
 </body>
